@@ -92,6 +92,7 @@ section {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  flex-wrap: wrap;
 }
 .item {
   display: flex;
@@ -290,7 +291,6 @@ footer {
   .items {
     display: flex;
     flex-direction: column;
-    flex-wrap: wrap;
     gap: 24px;
   }
   footer .flex {
