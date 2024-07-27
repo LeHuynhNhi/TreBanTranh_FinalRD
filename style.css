@@ -5,6 +5,7 @@
   list-style: none;
   box-sizing: border-box;
   font-family: "Arial", sans-serif; /* Use Arial or any other font for now */
+  scroll-behavior: smooth;
 }
 .col-3 {
   width: 25%;
